@@ -1,5 +1,5 @@
 let header = document.querySelector('#page-header');
-header.style.textAlign = "center";
+header.style.textAlign = "left";
 document.getElementById("Doggos").innerHTML="Old Dogs > Cats";
 header.style.backgroundColor="coral";
 
